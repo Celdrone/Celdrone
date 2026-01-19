@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am on a journey to become a programmer my first project is making calculator back in high school, i like programming but, have always thought wow programming are just for genius and got intimidated, then in 2025 something change i my passion for programming came back so this is my new porject in years it's a website for logistic company that i work in.
 
 <!--
 **Celdrone/Celdrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
